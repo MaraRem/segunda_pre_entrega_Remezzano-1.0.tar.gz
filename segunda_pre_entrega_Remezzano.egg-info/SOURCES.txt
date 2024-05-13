@@ -1,0 +1,9 @@
+setup.py
+segunda_pre_entrega_Remezzano.egg-info/PKG-INFO
+segunda_pre_entrega_Remezzano.egg-info/SOURCES.txt
+segunda_pre_entrega_Remezzano.egg-info/dependency_links.txt
+segunda_pre_entrega_Remezzano.egg-info/top_level.txt
+segunda_pre_entrega_remezzano/1er.pre_entrega_remezzano.py
+segunda_pre_entrega_remezzano/Clientes.py
+segunda_pre_entrega_remezzano/Main.py
+segunda_pre_entrega_remezzano/__init__.py
